@@ -1,0 +1,8 @@
+.related-posts {
+    list-style: outside none none;
+}
+
+.related-posts a {
+    text-decoration: none !important;
+    text-transform: capitalize;
+}
